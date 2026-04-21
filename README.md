@@ -9,7 +9,7 @@ MVP funcional en Streamlit para recomendar una arquitectura lógica AWS para IA 
 - `app.py`
 - `requirements.txt`
 - `justificacion_equipo.md`
-- `captura_app_caso_base.png`
+
 
 ## Ejecución
 ```bash
